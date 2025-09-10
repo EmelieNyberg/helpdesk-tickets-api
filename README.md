@@ -1,14 +1,13 @@
-# Project Happy Thoughts API
+# Project Helpdesk Tickets API
 
-This project involves creating an API for a "Happy Thoughts" platform, a positivity-focused version of Twitter. The assignment is to build a backend API that serves as a replacement for the Technigo-provided API, allowing a React frontend to interact with it seamlessly. The API will handle features like posting new thoughts, listing recent thoughts, and updating the number of likes (hearts) for each thought.
+
 
 ## The problem
 
-To complete this project, I needed to design and implement a fully functional RESTful API using Node.js, Express, and MongoDB. The primary challenge was to ensure the API followed the specific requirements, such as input validation, endpoint functionality, and seamless integration with the existing frontend.
+
 
 ### Approach and Tools:
 
-- **Planning:** I broke down the project into key functionalities, starting with creating the Thought model, then implementing and testing each endpoint.
 - **Technologies:**
 - Backend Framework: Express.js to manage API routes and middleware.
 - Database: MongoDB with Mongoose for data modeling and validation.
@@ -34,6 +33,6 @@ Frontend Integration:
 
 ## View it live
 
-Frontend Netlify: https://happy-thoughts-project-technigo.netlify.app/
-Frontend GitHub: https://github.com/EmelieNyberg/project-happy-thoughts-vite-ek
-Backend Render: https://project-happy-thoughts-api-ek.onrender.com/
+Frontend Netlify: 
+Frontend GitHub: 
+Backend Render:
